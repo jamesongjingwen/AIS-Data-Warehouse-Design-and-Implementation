@@ -35,3 +35,6 @@ The primary objective of Project StarAIS is to provide a scalable and efficient 
 ### Conclusion
 
 Project StarAIS demonstrates the potential of data warehousing in the realm of maritime data analytics. It stands as a testament to the power of combining database management with analytical tools to derive meaningful insights from complex data sets.
+
+### References
+    Dataset: https://data.liancheng.science/ais_logs.html
