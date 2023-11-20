@@ -14,24 +14,28 @@ Project StarAIS is a comprehensive business analytics project focused on the des
 
 ### Technologies Used
 
-    Database Management: PostgreSQL
-    Data Modeling: Star Schema Design
-    Programming: SQL, Python (for data processing and interface development)
+    - Database Management: PostgreSQL
+    - Data Modeling: Star Schema Design
+    - Programming: SQL, Python (for data processing and interface development)
 
 ### Project Goals
 
 The primary objective of Project StarAIS is to provide a scalable and efficient solution for maritime data analysis. This includes:
 
-    Offering a centralized repository for AIS message data.
-    Enabling complex queries and analytics on maritime traffic.
-    Providing insights into maritime safety, traffic patterns, and vessel behaviors.
+    - Offering a centralized repository for AIS message data.
+    - Enabling complex queries and analytics on maritime traffic.
+    - Providing insights into maritime safety, traffic patterns, and vessel behaviors.
 
-Potential Applications
+### Potential Applications
 
-    Maritime Safety Analysis: Enhance the understanding of navigational risks and improve safety measures.
-    Traffic Pattern Monitoring: Analyze vessel movements and optimize maritime traffic management.
-    Environmental Impact Studies: Assess the environmental impact of maritime activities.
+    - Maritime Safety Analysis: Enhance the understanding of navigational risks and improve safety measures.
+    - Traffic Pattern Monitoring: Analyze vessel movements and optimize maritime traffic management.
+    - Environmental Impact Studies: Assess the environmental impact of maritime activities.
 
-Conclusion
+### Conclusion
 
 Project StarAIS demonstrates the potential of data warehousing in the realm of maritime data analytics. It stands as a testament to the power of combining database management with analytical tools to derive meaningful insights from complex data sets.
+
+### Software 
+    Python 
+    Postgres SQL 
